@@ -1,0 +1,3 @@
+# haffman
+
+Haffman Coding example
